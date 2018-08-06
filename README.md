@@ -1,5 +1,5 @@
 ### Instructions for setting up a Visual Studio FEFLOW-IFM project to locate MarcCommonsForFF and netCDF library source codes
-*(e.g., the PaleoSea2D plugin's project)*
+*(Note: These instructions were followed to set up the PaleoSea2D plugin's project, for instance.)*
 
 1. Open the C++ solution (project) in Microsoft Visual Studio.
 
